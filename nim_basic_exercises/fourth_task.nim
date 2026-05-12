@@ -1,6 +1,4 @@
-#[
-  A pipe has a 3/8 inch diameter. Express the diameter in centimeters.
-]#
+#[  A pipe has a 3/8 inch diameter. Express the diameter in centimeters.]#
 var
   centimeter = 2.54
   inch = 1.0
